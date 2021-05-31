@@ -39,14 +39,14 @@
 * REST ASSURED, The code runs error free. Just Follow these detailed instructions ....
 
 ### 2. PyPoll 
-* Created a Python script for analyzing the financial records of a company from a set of financial data 'budget_data.csv' that is composed of two columns: Date and Profit/Losses.The script analyzes the records to calculate each of the following:
-    * The total number of months included in the dataset
-    * The net total amount of "Profit/Losses" over the entire period
-    * Calculate the changes in "Profit/Losses" over the entire period, then find the average of those changes
-    * The greatest increase in profits (date and amount) over the entire period
-    * The greatest decrease in losses (date and amount) over the entire period
+* Created a Python script for helping a small, rural town modernize its vote counting process by analyzing poll data in 'election_data.csv' that is composed of three columns: Voter ID, County, and Candidate.This script analyzes the votes and calculates each of the following:
+    * The total number of votes cast
+    * A complete list of candidates who received votes
+    * The percentage of votes each candidate won
+    * The total number of votes each candidate won
+    * The winner of the election based on popular vote.
     * Analysis looks similar to the one below:
-      <br><img src="https://user-images.githubusercontent.com/81383838/120222188-2a958880-c205-11eb-841a-8548d1d0f7f6.jpg" width="500">
+      <br><br><img src="https://user-images.githubusercontent.com/81383838/120231311-bbc12b00-c216-11eb-9b01-50ccd9258b42.jpg" width="200">
       
 #### Resources
    * Folder PyBank : This folder contains two folders 
@@ -68,13 +68,11 @@
   
 #### Results:
    * The following analysis is printed to the terminal and the same result is written to output text file 'analysis/budget_analysis.txt'
-   <br><img src="https://user-images.githubusercontent.com/81383838/120222188-2a958880-c205-11eb-841a-8548d1d0f7f6.jpg" width="500">
+   <br><br><img src="https://user-images.githubusercontent.com/81383838/120231311-bbc12b00-c216-11eb-9b01-50ccd9258b42.jpg" width="200">
 
 #### Important: Run 'main.py' from PyBank as current working direcory
 ###### eRRORS !!!! What ERRORS ????
 * Handled 'Filenotfound' errors in case the script cannot find the source or destination folders/file
 * Made sure 'ZeroDivisionError' doesn't occur
 * REST ASSURED, The code runs error free. Just Follow these detailed instructions ....
-
-
 
