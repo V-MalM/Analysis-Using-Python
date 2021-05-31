@@ -17,11 +17,14 @@
    * Python file 'main.py' that has python script for analyzing the financial data stored in 'Resources\budget_data.csv'
 
 
-#### Sequence of execution
-##### when main.py is executed
-
-this happens
-
+#### Key notes
+   * Used csv.DictReader that reads the data from csv file and creates a dictonary preserving the header with each header filed as a key.
+   * Used 'from datetime import datetime' that imports a module 'datetime' to work with dates as date objects.
+   * Used tuples to work with data for further analysis.
+   * Used sort() method to sorts and rearranges the list of tuples in order of date
+   * Used lamda function to sort
+ 
+   
 
  
 #### Execution:
