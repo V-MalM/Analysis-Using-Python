@@ -12,9 +12,9 @@
 
 #### Resources
    * Folder PyBank : This folder contains two folders 
-        *'Resources': Contains the financial data 'budget_data.csv'
-        *'analysis' : empty folder to whic the out put text file with analysis, will be written.
-   * Python file main.py that has python script for analyzing the financial data stored in 'Resources\budget_data.csv'
+   		* 'Resources': Contains the financial data 'budget_data.csv'
+   		* 'analysis' : Empty folder to which the output text file with analysis, will be written.
+   * Python file 'main.py' that has python script for analyzing the financial data stored in 'Resources\budget_data.csv'
 
 
 #### Sequence of execution
