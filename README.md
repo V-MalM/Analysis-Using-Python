@@ -35,4 +35,8 @@ this happens
 
 #### Important: Run main.py from pyBank as current working direcory
 ###### eRRORS !!!! What ERRORS ????
+* Handled Filenotfound errors in case the script cannot find the source or destination folders/file
+* Made sure ZeroDivisionError doent occur
 * REST ASSURED, The code runs error free. Just Follow these detailed instructions ....
+
+
