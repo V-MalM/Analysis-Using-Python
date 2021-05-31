@@ -21,7 +21,7 @@
 #### Resources:
    * Folder PyBank : This folder contains two folders 
    		* 'Resources': Contains the financial data 'budget_data.csv'
-   		* 'analysis' : Empty folder to which the output text file with analysis, will be written.
+   		* 'analysis' : Folder to which the output text file with analysis, will be written.
    		* Python file 'main.py' that has python script for analyzing the financial data stored in 'Resources/budget_data.csv'
 
 #### Key notes:
@@ -61,7 +61,7 @@
 #### Resources:
    * Folder PyPoll   : This folder contains two folders 
    		* 'Resources': Contains poll data 'election_data.csv'
-   		* 'analysis' : Empty folder to which the output text file with analysis, will be written.
+   		* 'analysis' : Folder to which the output text file with analysis, will be written.
    		* Python file 'main.py' that has python script for analyzing the election_data data stored in 'Resources/election_data.csv'
 
 #### Key notes:
