@@ -1,7 +1,7 @@
 ### Python-Challenge
 #### Project Description --> This python project has two tasks: 
 ##### PyBank and PyPoll , both read an individual csv file, analyze data, perform calculations, print summary of analysis to screen and also create an output text file  and write summary of analysis to it. 
-* I explored Lists, Dictonaries, Tuples and sets, error handling using 'try..except..else..'
+* Used Lists, Dictonaries, Tuples and Sets,Functions and Error Handling using 'try..except..else..'
 * In PyBank, used TUPLE where required. Also used datetime module , lamda function and sort() method to sort data.
 * In PyPoll, used SET where required. Used lambda funtion along with python sorted() function. 
     * Instead of checking candidates name in a for loop to create a unique list of candidates, i used a set.
@@ -34,7 +34,8 @@
 #### Execution:
   * The script is in the file main.py which can be located in the folder PyBank.
   * Using PyBank as the working folder, run 'main.py'.
-  * The file has detailed comments expaling each step
+  * It has 2 functions readFromCsv(), and analyzeAndWrite()
+  * The file has detailed comments expaling these functions and code outside the scope of functions
   
 #### Results:
    * The following analysis is printed to the terminal and the same result is written to output text file 'analysis/budget_analysis.txt'
@@ -72,7 +73,8 @@
 #### Execution:
   * The script is in the file main.py which can be located in the folder PyPoll.
   * Using PyPoll as the working folder, run 'main.py'.
-  * The file has detailed comments expaling each step
+  * It has 2 functions readFromCsv(), and analyzeAndWrite()
+  * The file has detailed comments expaling these functions and code outside the scope of functions
   
 #### Results:
    * The following analysis is printed to the terminal and the same result is written to output text file 'analysis/election_results.txt'
