@@ -1,8 +1,6 @@
-# python-challenge
-#### Project Description
-## This python project has two tasks:
-
-## 1. PyBank 
+### Python-Challenge
+#### Project Description --> This python project has two tasks:
+### 1. PyBank 
 * Created a Python script for analyzing the financial records of a company from a set of financial data 'budget_data.csv' that is composed of two columns: Date and Profit/Losses.The script analyzes the records to calculate each of the following:
     * The total number of months included in the dataset
     * The net total amount of "Profit/Losses" over the entire period
