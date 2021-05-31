@@ -11,7 +11,7 @@
       <br><img src="https://user-images.githubusercontent.com/81383838/120222188-2a958880-c205-11eb-841a-8548d1d0f7f6.jpg" width="500">
 
 #### Resources
-   * Folder pyBank : This folder contains two folders 
+   * Folder PyBank : This folder contains two folders 
         *'Resources': Contains the financial data 'budget_data.csv'
         *'analysis' : empty folder to whic the out put text file with analysis, will be written.
    * Python file main.py that has python script for analyzing the financial data stored in 'Resources\budget_data.csv'
