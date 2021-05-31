@@ -22,7 +22,7 @@ def readFromCsv(srcFile):
 
     return  candidateVotes, candidateListUnique     
 
-# Function that accepts candidatevotes list and candidateListUnique set for analyses, performs calculations and generates output 
+# Function that accepts candidatevotes list and candidateListUnique set for analysis, performs calculations and generates output 
 def analyzeAndWrite(candVotes, candUniqueList):
     candidate_vote_count_dict = {} #dictionary to store each candidate name and their total vote count. This can be done using tuples aswell. but i am using a dictonary because I used tuples in PyBank
 

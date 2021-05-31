@@ -28,7 +28,7 @@ def readFromCsv(srcFile):
             ProfitLossList.append((datecol, float(row['Profit/Losses']))) 
     return(ProfitLossList)        
 
-# Function that accepts ProfitLossList (list of tuples) for for analyses, performs calculations and generates output 
+# Function that accepts ProfitLossList (list of tuples) for for analysis, performs calculations and generates output 
 def analyzeAndWrite(Profit_Loss_List):
     # sort() method sorts and rearranges the list of tuples in order of date
     # using lamda function here
