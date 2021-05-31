@@ -24,17 +24,14 @@
    * Used sort() method to sorts and rearranges the list of tuples in order of date
    * Used lamda function to sort
  
-   
-
- 
 #### Execution:
-  * The code is in the file main.py which can be located in the folder pyBank.
-  * Using PyBank as the working folder, run main.py.
-      * this happens
-      * this happens
-      * 
-#### Results
-   add images here
+  * The script is in the file main.py which can be located in the folder PyBank.
+  * Using PyBank as the working folder, run 'main.py'.
+  * The file has detailed comments expaling each step
+  
+#### Results:
+   * The following analysis is printed to the terminal and the same result is written to output text file 'analysis/budget_analysis.txt'
+   <br><img src="https://user-images.githubusercontent.com/81383838/120222188-2a958880-c205-11eb-841a-8548d1d0f7f6.jpg" width="500">
 
 #### Important: Run main.py from pyBank as current working direcory
 ###### eRRORS !!!! What ERRORS ????
