@@ -1,8 +1,8 @@
 ### Python-Challenge
 #### Project Description --> This python project has two tasks: 
 ##### PyBank and PyPoll , both read an individual csv file, analyze data, perform calculations, print summary of analysis to screen and also create an output text file  and write summary of analysis to it. 
-* Used Lists, Dictonaries, Tuples and Sets,Functions and Error Handling using 'try..except..else..'
-* In PyBank, used TUPLE where required. Also used datetime module , lamda function and sort() method to sort data.
+* Used Lists, Dictonaries, Tuples and Sets in both projects. Also used Functions and Error Handling with 'try..except..else..'
+* In PyBank, used TUPLE where required and datetime module , lamda function and sort() method to sort data.
 * In PyPoll, used SET where required. Used lambda funtion along with python sorted() function. 
     * Instead of checking candidates name in a for loop to create a unique list of candidates, i used a set.
 
