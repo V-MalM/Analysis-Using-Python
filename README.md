@@ -35,7 +35,7 @@
   * The script is in the file main.py which can be located in the folder PyBank.
   * Using PyBank as the working folder, run 'main.py'.
   * It has 2 functions readFromCsv(), and analyzeAndWrite()
-  * The file has detailed comments expaling these functions and code outside the scope of functions
+  * The file has detailed comments explaining these functions and code outside the scope of functions
   
 #### Results:
    * The following analysis is printed to the terminal and the same result is written to output text file 'analysis/budget_analysis.txt'
@@ -74,7 +74,7 @@
   * The script is in the file main.py which can be located in the folder PyPoll.
   * Using PyPoll as the working folder, run 'main.py'.
   * It has 2 functions readFromCsv(), and analyzeAndWrite()
-  * The file has detailed comments expaling these functions and code outside the scope of functions
+  * The file has detailed comments explaining these functions and code outside the scope of functions
   
 #### Results:
    * The following analysis is printed to the terminal and the same result is written to output text file 'analysis/election_results.txt'
