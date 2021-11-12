@@ -1,4 +1,3 @@
-### Python-Challenge
 #### Project Description --> This python project has two tasks: 
 ##### PyBank and PyPoll , both read an individual csv file, analyze data, perform calculations, print summary of analysis to screen and also create an output text file  and write summary of analysis to it. 
 * Used Lists, Dictonaries, Tuples and Sets in both projects. Also used Functions and Error Handling with 'try..except..else..'
